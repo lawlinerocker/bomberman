@@ -1,4 +1,4 @@
-#Bomberman
+<h1>Bomberman</h1>
 
 Recreating bomberman game in java by using eclipse JRE for development:
 
